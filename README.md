@@ -53,3 +53,7 @@ Métricas finais.
 
 No fim da configuração do Edge Impulse, fui criado e baixado o modelo final gerado para o trabalho, o mesmo se encontra neste repositório (modelo-treinado.zip).
 
+## Resultados da Classificação
+
+A biblioteca (modelo) gerada para o Arduino foi adicionada no Arduino IDE e compilada no ESP, gerando os seguintes resultados de classificação.
+![Alt text](/resultados/classificacao.png)

@@ -45,5 +45,4 @@ void loop() {
   // Use a ferramenta "Serial Plotter" (Ctrl+Shift+L) para ver o gráfico!
 
   Serial.println(amplitudePicoAPico); 
-
 }
